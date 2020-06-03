@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: bd11a80b4472fcb458d0f4f8140d1ddf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2063504047453703866
+    second: Alois-WAppe-Anim (2)_0
+  - first:
+      213: 7242253428254011712
+    second: Alois-WAppe-Anim (2)_1
+  - first:
+      213: 6043495104869342879
+    second: Alois-WAppe-Anim (2)_2
+  - first:
+      213: 6089049737021529430
+    second: Alois-WAppe-Anim (2)_3
+  - first:
+      213: -1853752322195343600
+    second: Alois-WAppe-Anim (2)_4
+  - first:
+      213: -3964400556132238750
+    second: Alois-WAppe-Anim (2)_5
+  - first:
+      213: -4703995467695132687
+    second: Alois-WAppe-Anim (2)_6
+  - first:
+      213: -4159457666697458820
+    second: Alois-WAppe-Anim (2)_7
+  - first:
+      213: -2937255138779039052
+    second: Alois-WAppe-Anim (2)_8
+  - first:
+      213: 1480417622151671947
+    second: Alois-WAppe-Anim (2)_9
+  - first:
+      213: -8069982976630047148
+    second: Alois-WAppe-Anim (2)_10
+  - first:
+      213: -1634750937968881611
+    second: Alois-WAppe-Anim (2)_11
+  - first:
+      213: -1404960357670194732
+    second: Alois-WAppe-Anim (2)_12
+  - first:
+      213: 1210770971964085409
+    second: Alois-WAppe-Anim (2)_13
+  - first:
+      213: -1162806064065715077
+    second: Alois-WAppe-Anim (2)_14
+  - first:
+      213: -7488655130745626383
+    second: Alois-WAppe-Anim (2)_15
+  - first:
+      213: -7944373041641334366
+    second: Alois-WAppe-Anim (2)_16
+  - first:
+      213: -627066071520084982
+    second: Alois-WAppe-Anim (2)_17
+  - first:
+      213: -4994310731672989203
+    second: Alois-WAppe-Anim (2)_18
+  - first:
+      213: -8042539739139567498
+    second: Alois-WAppe-Anim (2)_19
+  - first:
+      213: -500608498857696428
+    second: Alois-WAppe-Anim (2)_20
+  - first:
+      213: 96432584509408185
+    second: Alois-WAppe-Anim (2)_21
+  - first:
+      213: -111333038940446289
+    second: Alois-WAppe-Anim (2)_22
+  - first:
+      213: -3328020780759345566
+    second: Alois-WAppe-Anim (2)_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 255
+        width: 1094
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.70481265, y: 0.7408761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017bdf5a5162646e0800000000000000
+      internalID: -1853752322195343600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 62
+        width: 1740
+        height: 1368
+      alignment: 9
+      pivot: {x: 0.8049886, y: 0.7844775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7060d2be9bf8c0800000000000000
+      internalID: -3964400556132238750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_6
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 102
+        width: 1730
+        height: 1622
+      alignment: 9
+      pivot: {x: 0.8044377, y: 0.6412715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffebf28b0d08beb0800000000000000
+      internalID: -4703995467695132687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_8
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 285
+        width: 2547
+        height: 2277
+      alignment: 9
+      pivot: {x: 0.7407658, y: 0.38738084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba72667306cc37d0800000000000000
+      internalID: -2937255138779039052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_9
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 255
+        width: 2025
+        height: 1966
+      alignment: 9
+      pivot: {x: 0.7949238, y: 0.4512888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803497dbff7b8410800000000000000
+      internalID: 1480417622151671947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_11
+      rect:
+        serializedVersion: 2
+        x: 10908
+        y: 226
+        width: 2294
+        height: 1234
+      alignment: 9
+      pivot: {x: 0.84966725, y: 0.7148178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d026eea23059e0800000000000000
+      internalID: -1634750937968881611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-WAppe-Anim (2)_12
+      rect:
+        serializedVersion: 2
+        x: 13247
+        y: 255
+        width: 1810
+        height: 1175
+      alignment: 9
+      pivot: {x: 0.77101713, y: 0.75091255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1ff8d9ff3908ce0800000000000000
+      internalID: -1404960357670194732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 1c4aac3b00322954c857fcda8cd0af23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8244132160607203044
+    second: Alois-SimplePunch-Anim_0
+  - first:
+      213: -5892969454400097771
+    second: Alois-SimplePunch-Anim_1
+  - first:
+      213: -7694054379538668719
+    second: Alois-SimplePunch-Anim_2
+  - first:
+      213: 895036357174294134
+    second: Alois-SimplePunch-Anim_3
+  - first:
+      213: 688176142529993665
+    second: Alois-SimplePunch-Anim_4
+  - first:
+      213: 2390920771729434860
+    second: Alois-SimplePunch-Anim_5
+  - first:
+      213: 7306222974985531424
+    second: Alois-SimplePunch-Anim_6
+  - first:
+      213: 3716310338353909761
+    second: Alois-SimplePunch-Anim_7
+  - first:
+      213: -6404755039772984260
+    second: Alois-SimplePunch-Anim_8
+  - first:
+      213: -2466901368481969256
+    second: Alois-SimplePunch-Anim_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 270
+        width: 686
+        height: 832
+      alignment: 9
+      pivot: {x: 0.67106324, y: 0.7807627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1152adaa75f69d80800000000000000
+      internalID: -8244132160607203044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 275
+        width: 1036
+        height: 881
+      alignment: 9
+      pivot: {x: 0.5891289, y: 0.74459934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123146e087f73ea0800000000000000
+      internalID: -5892969454400097771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 258
+        width: 1361
+        height: 867
+      alignment: 9
+      pivot: {x: 0.580406, y: 0.8012558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532f018e4a393590800000000000000
+      internalID: -7694054379538668719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 280
+        width: 1684
+        height: 895
+      alignment: 9
+      pivot: {x: 0.4199407, y: 0.76752925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb16663e84ec8900800000000000000
+      internalID: 688176142529993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 275
+        width: 1592
+        height: 854
+      alignment: 9
+      pivot: {x: 0.39258397, y: 0.7670434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8290536c14e2120800000000000000
+      internalID: 2390920771729434860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-SimplePunch-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 270
+        width: 1299
+        height: 860
+      alignment: 9
+      pivot: {x: 0.48797303, y: 0.76149035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207fc1f51be46560800000000000000
+      internalID: 7306222974985531424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
