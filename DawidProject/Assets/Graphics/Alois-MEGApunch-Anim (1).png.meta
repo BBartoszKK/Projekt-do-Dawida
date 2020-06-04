@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 21c7bee5ffc501042a91dfab36d0af43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2593179714915296161
+    second: Alois-MEGApunch-Anim (1)_0
+  - first:
+      213: 90210124513190127
+    second: Alois-MEGApunch-Anim (1)_1
+  - first:
+      213: -1564998598150577596
+    second: Alois-MEGApunch-Anim (1)_2
+  - first:
+      213: 7850520333265677961
+    second: Alois-MEGApunch-Anim (1)_3
+  - first:
+      213: -7647027908682554777
+    second: Alois-MEGApunch-Anim (1)_4
+  - first:
+      213: 6726144197403383890
+    second: Alois-MEGApunch-Anim (1)_5
+  - first:
+      213: -6513740939904995443
+    second: Alois-MEGApunch-Anim (1)_6
+  - first:
+      213: -7764870576664598190
+    second: Alois-MEGApunch-Anim (1)_7
+  - first:
+      213: -6672494840214345108
+    second: Alois-MEGApunch-Anim (1)_8
+  - first:
+      213: 6415197206182549709
+    second: Alois-MEGApunch-Anim (1)_9
+  - first:
+      213: 8783074942504640966
+    second: Alois-MEGApunch-Anim (1)_10
+  - first:
+      213: 4951038910683673423
+    second: Alois-MEGApunch-Anim (1)_11
+  - first:
+      213: 1799095630944572835
+    second: Alois-MEGApunch-Anim (1)_12
+  - first:
+      213: -7098161536751269923
+    second: Alois-MEGApunch-Anim (1)_13
+  - first:
+      213: 6333066639179551901
+    second: Alois-MEGApunch-Anim (1)_14
+  - first:
+      213: 3950945719701057316
+    second: Alois-MEGApunch-Anim (1)_15
+  - first:
+      213: 1709787903943057529
+    second: Alois-MEGApunch-Anim (1)_16
+  - first:
+      213: -5177708586887075612
+    second: Alois-MEGApunch-Anim (1)_17
+  - first:
+      213: -8208072133619408201
+    second: Alois-MEGApunch-Anim (1)_18
+  - first:
+      213: -4558450864945006184
+    second: Alois-MEGApunch-Anim (1)_19
+  - first:
+      213: 3017606683128164516
+    second: Alois-MEGApunch-Anim (1)_20
+  - first:
+      213: -6067613789934585312
+    second: Alois-MEGApunch-Anim (1)_21
+  - first:
+      213: 6077690309280400086
+    second: Alois-MEGApunch-Anim (1)_22
+  - first:
+      213: -7681872407912302697
+    second: Alois-MEGApunch-Anim (1)_23
+  - first:
+      213: -8385232072924497125
+    second: Alois-MEGApunch-Anim (1)_24
+  - first:
+      213: -5953796806931436590
+    second: Alois-MEGApunch-Anim (1)_25
+  - first:
+      213: 9035067608154616472
+    second: Alois-MEGApunch-Anim (1)_26
+  - first:
+      213: -2319753444953050753
+    second: Alois-MEGApunch-Anim (1)_27
+  - first:
+      213: 6863683583058381872
+    second: Alois-MEGApunch-Anim (1)_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_1
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 322
+        width: 2175
+        height: 1640
+      alignment: 9
+      pivot: {x: 0.41581133, y: 0.25795853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a0ca51ad704100800000000000000
+      internalID: 90210124513190127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_4
+      rect:
+        serializedVersion: 2
+        x: 6613
+        y: 270
+        width: 2444
+        height: 1574
+      alignment: 9
+      pivot: {x: 0.3243448, y: 0.36062807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7626a7bf1ac40e590800000000000000
+      internalID: -7647027908682554777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_5
+      rect:
+        serializedVersion: 2
+        x: 9124
+        y: 248
+        width: 2495
+        height: 1491
+      alignment: 9
+      pivot: {x: 0.18506584, y: 0.43892843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258984ac280185d50800000000000000
+      internalID: 6726144197403383890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_10
+      rect:
+        serializedVersion: 2
+        x: 11700
+        y: 455
+        width: 1151
+        height: 1160
+      alignment: 9
+      pivot: {x: 0.4283054, y: 0.373929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1af9f1020c3e970800000000000000
+      internalID: 8783074942504640966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_11
+      rect:
+        serializedVersion: 2
+        x: 12903
+        y: 396
+        width: 1226
+        height: 953
+      alignment: 9
+      pivot: {x: 0.5863063, y: 0.49931088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ff6458af95b440800000000000000
+      internalID: 4951038910683673423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_12
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 277
+        width: 1311
+        height: 854
+      alignment: 9
+      pivot: {x: 0.7667945, y: 0.49888572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5986fb1fba7f810800000000000000
+      internalID: 1799095630944572835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 263
+        width: 1293
+        height: 731
+      alignment: 9
+      pivot: {x: 0.7563839, y: 0.43838957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97029cf2a036ab710800000000000000
+      internalID: 1709787903943057529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alois-MEGApunch-Anim (1)_0
+      rect:
+        serializedVersion: 2
+        x: 14206
+        y: 304
+        width: 701
+        height: 835
+      alignment: 9
+      pivot: {x: 0.6672318, y: 0.48184478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a366422633dcf320800000000000000
+      internalID: 2593179714915296161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

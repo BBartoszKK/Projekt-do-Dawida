@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class bulletScript : MonoBehaviour
+public class BulletScript : MonoBehaviour
 {
     void Update()
     {
